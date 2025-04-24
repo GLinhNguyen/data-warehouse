@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Gameloft"
+  DTS:DTSID="{8C30993A-592E-4FF9-8AA6-A9CABF0424BD}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=Gameloft;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
