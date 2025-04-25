@@ -1,5 +1,5 @@
 # ETL
-A small ETL pipeline Project for Gameloft Game Data Analysis (3~4.5 days)
+A small ETL pipeline Project for Gameloft Game Data Analysis 
 
 Link to presentation: [Here](https://www.canva.com/design/DAGlisGBbgk/UNXSXXukgsef0RvFbTq_hg/edit?utm_content=DAGlisGBbgk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
